@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yunsha-dsl.github.io/</id>
     <title></title>
-    <updated>2020-02-14T10:30:47.822Z</updated>
+    <updated>2020-02-14T11:49:41.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yunsha-dsl.github.io/"/>
     <link rel="self" href="https://yunsha-dsl.github.io/atom.xml"/>
@@ -10,4 +10,23 @@
     <logo>https://yunsha-dsl.github.io/images/avatar.png</logo>
     <icon>https://yunsha-dsl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, </rights>
+    <entry>
+        <title type="html"><![CDATA[写给刘小姐]]></title>
+        <id>https://yunsha-dsl.github.io/post/lh</id>
+        <link href="https://yunsha-dsl.github.io/post/lh">
+        </link>
+        <updated>2020-02-14T10:22:52.000Z</updated>
+        <content type="html"><![CDATA[<p>一片蔚蓝天空，丝丝云渐渐飘落；<br>
+晴天过后有乌云，乌云过后有彩虹；<br>
+月光潺潺流进溪流，你是我梦寐以求。</p>
+<p>据长久以来的观察，刘小姐不吃姜葱香菜，不吃莴苣，不吃茄子，不吃生菜，不吃猪肉；<br>
+喜欢吃豆腐、红烧鱼、牛肉、鸡肉，还有土豆、豆芽、娃娃菜等，还都喜欢偏辣一点；<br>
+刘小姐可真挑食，不像我，啥都行，我真好养活；哦对，刘小姐也不吃月饼（我记性可真好😄）</p>
+<p>刘小姐不舒服的几天在月尾或者月初，刘小姐告诉我第一天最疼，真希望她最好一天都不难受</p>
+<p>十一月初六呢，是刘小姐的农历生日；十二月十三呢是阳历生日（我都分不清自己的生日了😂）</p>
+<p>元旦呀，是刘小姐答应和我在一起的日子，嘿嘿（仿佛还能想到当时自己傻笑的样子）答应刘小姐每个元旦都要给她讲笑话，要让刘小姐每天都开开心心的，我一定会做到的</p>
+<p>没有什么日子需要赋予特殊意义，我时时爱你，不需要在某个节点才袒露心意。但如果你想听，我爱你。</p>
+<p>I like you have only one reason you are the reason.</p>
+]]></content>
+    </entry>
 </feed>
